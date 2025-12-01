@@ -82,111 +82,140 @@ I turn **research-flavored ideas** into **production-grade systems**: APIs, dash
 
 ---
 
-<!-- ==== CLINICAL AI PROJECTS ==== -->
+
+## <!-- ==== CLINICAL AI PROJECTS ==== -->
+
 <h2 align="center">🩺 Clinical AI · Uncertainty · Explainability</h2>
 
-### 🔹 **hdi-uncertainty-dashboard**  
-Full clinical risk prediction pipeline with calibration, bootstrap uncertainty, and SHAP — delivered through a Streamlit dashboard.  
-🔗 https://github.com/Dx2905/hdi-uncertainty-dashboard  
+### 🔹 **HDI Uncertainty Dashboard**
+
+Full clinical risk prediction pipeline with calibration, bootstrap uncertainty, and SHAP — delivered through a Streamlit dashboard.
+🔗 [https://github.com/Dx2905/hdi-uncertainty-dashboard](https://github.com/Dx2905/hdi-uncertainty-dashboard)
 
 ---
 
-### 🔹 **uncertainty-viz-playground**  
-Interactive playground for uncertainty visualization techniques in clinical prediction.  
-🔗 https://github.com/Dx2905/uncertainty-viz-playground  
+### 🔹 **Uncertainty Visualization Playground**
+
+Interactive Streamlit playground demonstrating uncertainty visualization techniques for clinical risk models.
+🔗 [https://github.com/Dx2905/uncertainty-viz-playground](https://github.com/Dx2905/uncertainty-viz-playground)
 
 ---
 
-### 🔹 **clinical-uncertainty-design-space**  
-Design space + mini-paper exploring uncertainty & XAI visualization for clinical dashboards.  
-🔗 https://github.com/Dx2905/clinical-uncertainty-design-space  
+### 🔹 **Clinical Uncertainty Design Space**
+
+Mini-paper + prototype suite exploring a design space of uncertainty and explainability views for clinical AI dashboards.
+🔗 [https://github.com/Dx2905/clinical-uncertainty-design-space](https://github.com/Dx2905/clinical-uncertainty-design-space)
 
 <p align="center">
   ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
-<!-- ==== ML PIPELINES ==== -->
+---
+
+## <!-- ==== ML PIPELINES ==== -->
+
 <h2 align="center">🤖 Machine Learning Pipelines & AI Systems</h2>
 
-### 🔹 **breast-cancer-ml-pipeline**  
-MLflow tracking · SHAP · FastAPI · Docker · Prometheus · Airflow retraining.  
-🔗 https://github.com/Dx2905/breast-cancer-ml-pipeline  
+### 🔹 **Breast Cancer ML Pipeline**
+
+End-to-end ML pipeline with SHAP explainability, MLflow tracking, FastAPI inference, Docker deployment, Prometheus monitoring, and Airflow retraining.
+🔗 [https://github.com/Dx2905/breast-cancer-ml-pipeline](https://github.com/Dx2905/breast-cancer-ml-pipeline)
 
 ---
 
-### 🔹 **spacex-ml-pipeline**  
-Falcon 9 landing prediction → FastAPI → Docker → GCP Cloud Run.  
-🔗 https://github.com/Dx2905/spacex-ml-pipeline  
+### 🔹 **Falcon9 Landing Prediction Pipeline**
+
+End-to-end ML workflow predicting Falcon 9 landing success using scraped and API data, deployed via FastAPI + Docker on GCP Cloud Run.
+🔗 [https://github.com/Dx2905/falcon9-landing-prediction-pipeline](https://github.com/Dx2905/falcon9-landing-prediction-pipeline)
 
 ---
 
-### 🔹 **toxic-behavior-detection**  
-Transformer toxicity detection (RoBERTa/BART) with real-time API backend.  
-🔗 https://github.com/Dx2905/toxic-behavior-detection  
+### 🔹 **Toxic Content Detection System**
+
+Transformers (RoBERTa/BART) + CNN models for real-time toxicity detection. Includes FastAPI serving and Dockerized batch inference.
+🔗 [https://github.com/Dx2905/toxic-content-detection-system](https://github.com/Dx2905/toxic-content-detection-system)
 
 ---
 
-### 🔹 **ai-cognitive-classification**  
-Bloom’s taxonomy NLP classifier with SHAP, DVC, FastAPI, Streamlit.  
-🔗 https://github.com/Dx2905/ai-cognitive-classification  
+### 🔹 **Bloom’s Taxonomy NLP Classifier**
+
+Educational question classification using TF-IDF + SVM/RF models, with SHAP explainability, Streamlit demo, DVC versioning, and FastAPI backend.
+🔗 [https://github.com/Dx2905/blooms-taxonomy-nlp-classifier](https://github.com/Dx2905/blooms-taxonomy-nlp-classifier)
 
 ---
 
-### 🔹 **zero-shot-llm-pipeline**  
-Real-time GPT-3.5/4 summarization, translation, sentiment, Q&A.  
-🔗 https://github.com/Dx2905/zero-shot-llm-pipeline  
+### 🔹 **Zero-Shot LLM Text Operations**
+
+GPT-based Streamlit toolkit for summarization, translation, sentiment analysis, and Q&A using dynamic zero-shot prompting.
+🔗 [https://github.com/Dx2905/zero-shot-llm-text-operations](https://github.com/Dx2905/zero-shot-llm-text-operations)
 
 <p align="center">
   ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
-<!-- ==== BACKEND / MICROSERVICES ==== -->
+---
+
+## <!-- ==== BACKEND / MICROSERVICES ==== -->
+
 <h2 align="center">🧱 Backend Engineering · Microservices · DevOps</h2>
 
-### 🔹 **k8s-devops-playground**  
-Local AWS EKS-style microservices environment with Prometheus + Grafana.  
-🔗 https://github.com/Dx2905/k8s-devops-playground  
+### 🔹 **Microservices K8s DevOps Playground**
+
+Simulated AWS EKS-style microservices stack with Java + Node.js services, Kubernetes (Kind), Prometheus, Grafana, Ingress, and HPA.
+🔗 [https://github.com/Dx2905/microservices-k8s-devops-playground](https://github.com/Dx2905/microservices-k8s-devops-playground)
 
 ---
 
-### 🔹 **task-manager-api**  
-FastAPI · PostgreSQL · Redis · JWT · Docker · Prometheus metrics.  
-🔗 https://github.com/Dx2905/task-manager-api  
+### 🔹 **Task Manager Backend Service**
+
+FastAPI backend with JWT auth, PostgreSQL, Redis caching, Docker, and Prometheus metrics — designed like a real production service.
+🔗 [https://github.com/Dx2905/task-manager-backend-service](https://github.com/Dx2905/task-manager-backend-service)
 
 ---
 
-### 🔹 **notifications-activity-api**  
-Event logging & notifications engine — Express, Redis, Docker, Jest.  
-🔗 https://github.com/Dx2905/notifications-activity-api  
+### 🔹 **Notification Event Service**
+
+Event logging & notification simulation API built using Express, Redis, Docker, JWT auth, and a Jest test suite.
+🔗 [https://github.com/Dx2905/notification-event-service](https://github.com/Dx2905/notification-event-service)
 
 ---
 
-### 🔹 **contact-book-api**  
-Spring Boot · PostgreSQL · JWT authentication · CRUD REST backend.  
-🔗 https://github.com/Dx2905/contact-book-api  
+### 🔹 **Contact Book Backend**
+
+Secure Spring Boot backend with PostgreSQL, JWT-based authentication, and full CRUD operations for user contacts.
+🔗 [https://github.com/Dx2905/contact-book-backend](https://github.com/Dx2905/contact-book-backend)
 
 ---
 
-### 🔹 **Job-tracker-SaaS**  
-Full-stack SaaS: FastAPI + PostgreSQL + Next.js + TypeScript + JWT.  
-🔗 https://github.com/Dx2905/Job-tracker-SaaS  
+### 🔹 **Job Tracker SaaS Platform**
+
+Full-stack SaaS job tracking system built with FastAPI, PostgreSQL, SQLAlchemy, Next.js, TypeScript, JWT, Axios, and Docker.
+🔗 [https://github.com/Dx2905/job-tracker-saas-platform](https://github.com/Dx2905/job-tracker-saas-platform)
 
 <p align="center">
   ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
-<!-- ==== FRONTEND ==== -->
+---
+
+## <!-- ==== FRONTEND ==== -->
+
 <h2 align="center">🎨 Frontend / UI / Dashboards</h2>
 
-### 🔹 **react-dashboard**  
-Modern React admin dashboard with auth, REST API integration, Tailwind UI.  
-🔗 https://github.com/Dx2905/react-dashboard  
+### 🔹 **React Admin Dashboard**
+
+Modern admin dashboard with authentication, REST API integration, Tailwind UI components, and Vercel CI/CD.
+🔗 [https://github.com/Dx2905/react-admin-dashboard](https://github.com/Dx2905/react-admin-dashboard)
 
 ---
 
-### 🔹 **FnuGauravWeb**  
-Personal portfolio website — clean, minimal, fast.  
-🔗 https://github.com/Dx2905/FnuGauravWeb  
+### 🔹 **Portfolio Website**
+
+Personal website showcasing projects and experience — clean, fast, minimal.
+🔗 [https://github.com/Dx2905/FnuGauravWeb](https://github.com/Dx2905/FnuGauravWeb)
+
+---
+
 
 <p align="center">
   ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
