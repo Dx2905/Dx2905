@@ -329,8 +329,14 @@ Personal website showcasing projects & experience — clean, minimal, and fast.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dx2905&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dx2905&layout=compact&theme=tokyonight" />
+<img
+    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dx2905&show_icons=true&theme=tokyonight&count_private=true"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dx2905&layout=compact&theme=tokyonight"
+  />
 
 <br/><br/>
 
