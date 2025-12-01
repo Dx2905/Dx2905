@@ -1,46 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- Background -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220">
   <rect width="1000" height="220" fill="#000000" />
-
-  <!-- Neon Glow -->
-  <defs>
-    <filter id="softGlow" height="300%" width="300%" x="-100%" y="-100%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00f7ff"/>
-      <stop offset="50%" stop-color="#7b2ff7"/>
-      <stop offset="100%" stop-color="#ff4b81"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Initials FG -->
-  <text x="140" y="135" font-family="monospace" font-size="90" font-weight="bold"
-        fill="url(#neonGrad)" filter="url(#softGlow)">
-    FG
-  </text>
-
-  <!-- Name -->
-  <text x="300" y="110"
+  <text x="500" y="120"
         font-family="Arial, Helvetica, sans-serif"
-        font-size="34"
-        fill="#c8f5ff">
-    Fnu Gaurav
+        font-size="48"
+        fill="#00f7ff"
+        text-anchor="middle">
+    Fnu Gaurav – ML, XAI, Backend & DevOps
   </text>
-
-  <!-- Subtitle -->
-  <text x="300" y="150"
-        font-family="Arial, Helvetica, sans-serif"
-        font-size="20"
-        fill="#7bdfff">
-    Machine Learning · Clinical AI · Uncertainty · XAI · Backend & DevOps
-  </text>
-
 </svg>
