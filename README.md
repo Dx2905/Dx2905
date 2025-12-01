@@ -2,7 +2,7 @@
 
 <!-- <div align="center"> -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Fnu Gaurav – ML, XAI, Backend & DevOps" />
+  <img src="assets/test-banner.svg" alt="Fnu Gaurav – ML, XAI, Backend & DevOps" />
 </p>
 
 
