@@ -9,7 +9,7 @@
 
 <!-- Neon Navigation Badges -->
 <p>
-  <a href="https://dx2905.github.io/">
+  <a href="https://dx2905.github.io/FnuGauravWeb/">
     <img src="https://img.shields.io/badge/Portfolio-Live_Projects-00f7ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/fnu-gaurav-653355252/">
