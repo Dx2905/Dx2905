@@ -1,4 +1,4 @@
-<!-- 🌌 Fnu Gaurav – Fully Creative GitHub Profile README -->
+<!-- 🌌 Fnu Gaurav – Fully Creative Neon GitHub Profile README -->
 
 <div align="center">
 
@@ -22,7 +22,6 @@
 
 ---
 
-<!-- Avatar + Tagline (replace src with your GitHub avatar URL if you want) -->
 <h1>🧠 Fnu Gaurav</h1>
 <h3>Clinical AI · Uncertainty · Explainability · Backend & DevOps</h3>
 
@@ -32,7 +31,7 @@
 
 ## 🌌 Who Am I?
 
-> *“Some people deploy models. I deploy calibrated, explainable, monitored systems.”*  
+> *“Some people deploy models. I deploy calibrated, explainable, monitored systems.”*
 
 I’m a **Machine Learning Engineer + Backend Developer** who enjoys living at the intersection of:
 
@@ -42,7 +41,7 @@ I’m a **Machine Learning Engineer + Backend Developer** who enjoys living at t
 - 📊 **Human–AI interaction** — dashboards for decision support  
 - 🔍 **Research interests** — uncertainty communication · explainable AI · human–AI collaboration  
 
-I like taking **research-flavored ideas** and turning them into **production-grade systems**: APIs, dashboards, metrics, and all the “boring” infra that makes AI trustworthy.
+I turn **research-flavored ideas** into **production-grade systems**: APIs, dashboards, pipelines, metrics & monitoring.
 
 ---
 
@@ -69,94 +68,125 @@ I like taking **research-flavored ideas** and turning them into **production-gra
 
 ---
 
-## 🧩 Featured Builds · Little Story Cards
-
-### 🩺 Clinical Uncertainty & XAI Dashboard
-
-> *“What if risk scores showed their doubts?”*  
-
-A clinical dashboard that doesn’t just say **“80% risk”**, but also:  
-- 📉 How calibrated that 80% is  
-- 🎯 How much uncertainty surrounds this one prediction (bootstrap CIs)  
-- 🔍 Which features push risk up or down (local & global SHAP)  
-- 🎛 HDI-style UI for clinicians to **see model confidence, not just outputs**  
-
-🔗 _Repo link: (add once public)_  
+# 🌟 Featured Projects  
+*A curated selection of my strongest engineering, ML, and uncertainty visualization projects.*
 
 ---
 
-### 🔬 Breast Cancer ML Pipeline (Prod Ready)
+# 🩺 **Clinical AI · Uncertainty · Explainability**
 
-> Training notebook → ML pipeline → API → monitoring → automation.
+### 🔹 **hdi-uncertainty-dashboard**  
+**Full clinical risk prediction pipeline** with calibration, bootstrap uncertainty, and SHAP explainability — delivered through a Streamlit dashboard.  
+> 🧭 A trustworthy AI system for clinical decision support.  
+🔗 https://github.com/Dx2905/hdi-uncertainty-dashboard  
 
-- 📦 End-to-end ML pipeline (train → track → serve → monitor)  
-- 📓 **MLflow**: experiments, runs, and model registry  
-- 🧩 **SHAP**: global + local explanations for predictions  
-- 🌐 **FastAPI** serving with Docker  
-- 📈 **Prometheus + Grafana** monitoring  
-- ⏰ **Airflow DAG** for scheduled retraining  
+---
 
+### 🔹 **uncertainty-viz-playground**  
+Interactive **Streamlit playground** showcasing uncertainty visualization techniques for clinical predictions.  
+> 🧪 Great for experimentation, prototyping & teaching.  
+🔗 https://github.com/Dx2905/uncertainty-viz-playground  
+
+---
+
+### 🔹 **clinical-uncertainty-design-space**  
+Mini-paper + prototype suite mapping the **design space** of uncertainty & XAI visualizations for clinical dashboards.  
+> 📝 HDI-style research contribution.  
+🔗 https://github.com/Dx2905/clinical-uncertainty-design-space  
+
+---
+
+# 🤖 **Machine Learning Pipelines & AI Systems**
+
+### 🔹 **breast-cancer-ml-pipeline**  
+MLflow tracking, SHAP explainability, FastAPI inference, Docker deployment, Prometheus monitoring, Airflow retraining.  
+> ⚙️ A full production ML workflow with observability.  
 🔗 https://github.com/Dx2905/breast-cancer-ml-pipeline  
 
 ---
 
-### 🚀 SpaceX Landing Prediction (Cloud Deployed)
-
-> Predicting Falcon 9 landing success, then shipping it to the cloud.
-
-- 🧠 Classification model for landing success  
-- 🧩 FastAPI backend  
-- 📦 Docker image  
-- ☁️ **Deployed on GCP Cloud Run** as a REST API  
-
-🔗 https://github.com/Dx2905/IBM-Applied-Data-Science-Capstone  
+### 🔹 **spacex-ml-pipeline**  
+Falcon 9 landing prediction with FastAPI + Docker + GCP Cloud Run deployment.  
+> 🚀 Real-world ML pipeline from training → cloud deployment.  
+🔗 https://github.com/Dx2905/spacex-ml-pipeline  
 
 ---
 
-### 📦 Task Manager API Platform
-
-> A Trello-style backend built like a real service, not a toy project.
-
-- 🧱 **FastAPI** + modular architecture  
-- 🗄 **PostgreSQL** for persistent data  
-- ⚡ **Redis** for caching / speed  
-- 🔑 JWT-based **RBAC authentication**  
-- 📈 **Prometheus** metrics endpoints  
-- 🔁 **GitHub Actions** CI for tests & builds  
-
-🔗 _Repo link: (add once public)_  
+### 🔹 **toxic-behavior-detection**  
+Transformer-based toxicity detection using RoBERTa/BART + CNNs, Docker, and FastAPI for scalable inference.  
+> 🧹 Online moderation system with real-time API.  
+🔗 https://github.com/Dx2905/toxic-behavior-detection  
 
 ---
 
-### 📚 AI Cognitive Classification (Bloom’s Taxonomy NLP)
-
-> Turning “exam questions” into cognitive-level predictions.
-
-- 📄 TF-IDF + classic ML (SVM baseline)  
-- 🧩 SHAP explanations for model decisions  
-- 🖥 Streamlit demo app  
-- 🔁 **DVC** for reproducible data / model versions  
-- 📊 **Weights & Biases** for experiment tracking (planned / optional)  
-
-🔗 https://github.com/Dx2905/cognitive-classification-blooms  
+### 🔹 **ai-cognitive-classification**  
+Bloom’s taxonomy level classification with SHAP explainability, Streamlit UI, DVC, and FastAPI backend.  
+> 📚 NLP + XAI + reproducibility.  
+🔗 https://github.com/Dx2905/ai-cognitive-classification  
 
 ---
 
-### ☁️ Kubernetes DevOps Playground
-
-> A sandbox microservice world: Java + Node + K8s + monitoring.
-
-- 🧱 Java & Node.js services  
-- 📜 YAML manifests (Deployments, Services, Ingress, ConfigMaps, Secrets)  
-- 🧪 Local **kind** cluster simulating AWS EKS  
-- 📈 **Prometheus + Grafana** dashboards  
-- 🔁 Rolling updates, health checks, autoscaling concepts  
-
-🔗 _Repo link: (add once public)_  
+### 🔹 **zero-shot-llm-pipeline**  
+GPT-3.5/4 pipeline for summarization, translation, Q&A, sentiment analysis via dynamic prompting.  
+> 🤖 LLM-powered multi-tool pipeline in Streamlit.  
+🔗 https://github.com/Dx2905/zero-shot-llm-pipeline  
 
 ---
 
-## 📊 GitHub At A Glance
+# 🧱 **Backend Engineering · Microservices · DevOps**
+
+### 🔹 **k8s-devops-playground**  
+Simulated AWS EKS setup: Java + Node.js microservices, Kubernetes (kind), Prometheus, Grafana, Ingress, HPA.  
+> ☸️ Your strongest DevOps + microservices project.  
+🔗 https://github.com/Dx2905/k8s-devops-playground  
+
+---
+
+### 🔹 **task-manager-api**  
+FastAPI backend with JWT auth, PostgreSQL, Redis, Docker, Prometheus monitoring.  
+> 📦 Clean backend architecture with observability.  
+🔗 https://github.com/Dx2905/task-manager-api  
+
+---
+
+### 🔹 **notifications-activity-api**  
+Express + Redis + Docker REST API with JWT, activity logs, event simulation, and Jest test suite.  
+> 🔔 Perfect backend system for logging & events.  
+🔗 https://github.com/Dx2905/notifications-activity-api  
+
+---
+
+### 🔹 **contact-book-api**  
+Spring Boot backend with PostgreSQL + JWT authentication and full CRUD APIs.  
+> 📘 Solid enterprise-grade Java backend.  
+🔗 https://github.com/Dx2905/contact-book-api  
+
+---
+
+### 🔹 **Job-tracker-SaaS**  
+Full-stack SaaS: FastAPI · PostgreSQL · Next.js 14 · TypeScript · JWT · Docker.  
+> 🌐 Multi-user SaaS platform with clean architecture.  
+🔗 https://github.com/Dx2905/Job-tracker-SaaS  
+
+---
+
+# 🎨 **Frontend / UI / Dashboards**
+
+### 🔹 **react-dashboard**  
+A sleek modern React dashboard with auth, protected routes, Tailwind UI, and Vercel deployment.  
+> 🎛 Admin dashboard done right.  
+🔗 https://github.com/Dx2905/react-dashboard  
+
+---
+
+### 🔹 **FnuGauravWeb**  
+Personal portfolio website.  
+> 🌐 Minimal, clean, fast.  
+🔗 https://github.com/Dx2905/FnuGauravWeb  
+
+---
+
+## 📊 **GitHub At A Glance**
 
 <div align="center">
 
@@ -171,26 +201,33 @@ A clinical dashboard that doesn’t just say **“80% risk”**, but also:
 
 ---
 
-## 🔭 Current Radar
+## 🔭 **Current Radar**
 
-- 🩺 Better ways to **show uncertainty** to humans  
-- 🎛 Cleaner, more observable **ML APIs & services**  
-- 📊 Dashboards that make **models feel less like black boxes**  
-- 🧪 More end-to-end repos that look like **real systems**, not class assignments  
+- 🩺 Better ways to **visualize uncertainty** for clinicians  
+- 🧩 More interpretable, calibrated ML systems  
+- ⚙️ Building observable ML APIs & microservices  
+- 🎛 Dashboard design for human-AI collaboration  
+- 🧪 End-to-end reproducible ML/DevOps workflows  
 
 ---
 
-## 📬 Ping Me
+## 📬 **Ping Me**
 
-If you’re into **ML, XAI, dashboards, or backend infra**, I’m always open to chat.
+If you’re  
+👉 into **ML, XAI, uncertainty, dashboards, backend, DevOps**, or  
+👉 want to collaborate, brainstorm, or build something cool...
+
+Reach out:
 
 - 📧 **Email:** `yadav.gaurav2905@gmail.com`  
-- 🔗 **LinkedIn:** [linkedin.com/in/fnu-gaurav-653355252](https://www.linkedin.com/in/fnu-gaurav-653355252/)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/fnu-gaurav-653355252/
 
 ---
 
 <div align="center">
 
-✨ _Thanks for scrolling this far. May your logs be clean, your models calibrated, and your containers always healthy._ ✨  
+✨ _Thanks for scrolling this far. May your logs be clean,  
+your models calibrated,  
+and your containers always healthy._ ✨  
 
 </div>
