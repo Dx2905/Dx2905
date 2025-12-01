@@ -83,136 +83,239 @@ I turn **research-flavored ideas** into **production-grade systems**: APIs, dash
 ---
 
 
-## <!-- ==== CLINICAL AI PROJECTS ==== -->
-
+<!-- ==== CLINICAL AI PROJECTS ==== -->
 <h2 align="center">🩺 Clinical AI · Uncertainty · Explainability</h2>
 
+<!-- HDI Uncertainty Dashboard -->
 ### 🔹 **HDI Uncertainty Dashboard**
+Full clinical risk prediction pipeline with calibration, bootstrap uncertainty, and SHAP — delivered through a Streamlit dashboard for trustworthy AI.
 
-Full clinical risk prediction pipeline with calibration, bootstrap uncertainty, and SHAP — delivered through a Streamlit dashboard.
-🔗 [https://github.com/Dx2905/hdi-uncertainty-dashboard](https://github.com/Dx2905/hdi-uncertainty-dashboard)
+<p>
+  <img src="https://img.shields.io/badge/tag-ml-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-clinical_ai-ff4b81?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-streamlit-ff9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-shap-7b2ff7?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-calibration-00c853?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/hdi-uncertainty-dashboard  
 
 ---
 
 ### 🔹 **Uncertainty Visualization Playground**
+Interactive Streamlit playground demonstrating uncertainty visualization techniques for clinical risk prediction models.
 
-Interactive Streamlit playground demonstrating uncertainty visualization techniques for clinical risk models.
-🔗 [https://github.com/Dx2905/uncertainty-viz-playground](https://github.com/Dx2905/uncertainty-viz-playground)
+<p>
+  <img src="https://img.shields.io/badge/tag-uncertainty-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-visualization-7b2ff7?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-streamlit-ff9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-clinical_risk-00c853?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/uncertainty-viz-playground  
 
 ---
 
 ### 🔹 **Clinical Uncertainty Design Space**
-
 Mini-paper + prototype suite exploring a design space of uncertainty and explainability views for clinical AI dashboards.
-🔗 [https://github.com/Dx2905/clinical-uncertainty-design-space](https://github.com/Dx2905/clinical-uncertainty-design-space)
+
+<p>
+  <img src="https://img.shields.io/badge/tag-research-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-xai-ff4b81?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-visualization-7b2ff7?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-clinical_ai-00c853?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/clinical-uncertainty-design-space  
 
 <p align="center">
   ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
----
-
-## <!-- ==== ML PIPELINES ==== -->
-
+<!-- ==== ML PIPELINES ==== -->
 <h2 align="center">🤖 Machine Learning Pipelines & AI Systems</h2>
 
 ### 🔹 **Breast Cancer ML Pipeline**
-
 End-to-end ML pipeline with SHAP explainability, MLflow tracking, FastAPI inference, Docker deployment, Prometheus monitoring, and Airflow retraining.
-🔗 [https://github.com/Dx2905/breast-cancer-ml-pipeline](https://github.com/Dx2905/breast-cancer-ml-pipeline)
+
+<p>
+  <img src="https://img.shields.io/badge/tag-ml_pipeline-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-healthcare-00c853?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-shap-7b2ff7?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-mlflow-ff9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-fastapi-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-docker-2962ff?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/breast-cancer-ml-pipeline  
 
 ---
 
 ### 🔹 **Falcon9 Landing Prediction Pipeline**
+ML pipeline predicting Falcon 9 landing success using scraped/API data. Deployed using FastAPI + Docker on GCP Cloud Run.
 
-End-to-end ML workflow predicting Falcon 9 landing success using scraped and API data, deployed via FastAPI + Docker on GCP Cloud Run.
-🔗 [https://github.com/Dx2905/falcon9-landing-prediction-pipeline](https://github.com/Dx2905/falcon9-landing-prediction-pipeline)
+<p>
+  <img src="https://img.shields.io/badge/tag-ml_pipeline-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-fastapi-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-docker-2962ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-gcp_cloud_run-ff9800?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/falcon9-landing-prediction-pipeline  
 
 ---
 
 ### 🔹 **Toxic Content Detection System**
+Transformer-based toxicity detection (RoBERTa/BART) + CNN pipeline. Real-time/batch inference with FastAPI + Docker.
 
-Transformers (RoBERTa/BART) + CNN models for real-time toxicity detection. Includes FastAPI serving and Dockerized batch inference.
-🔗 [https://github.com/Dx2905/toxic-content-detection-system](https://github.com/Dx2905/toxic-content-detection-system)
+<p>
+  <img src="https://img.shields.io/badge/tag-nlp-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-transformers-7b2ff7?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-fastapi-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-docker-2962ff?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/toxic-content-detection-system  
 
 ---
 
 ### 🔹 **Bloom’s Taxonomy NLP Classifier**
+Educational question classification using TF-IDF + SVM/RF with SHAP explainability, Streamlit UI, FastAPI backend, and DVC versioning.
 
-Educational question classification using TF-IDF + SVM/RF models, with SHAP explainability, Streamlit demo, DVC versioning, and FastAPI backend.
-🔗 [https://github.com/Dx2905/blooms-taxonomy-nlp-classifier](https://github.com/Dx2905/blooms-taxonomy-nlp-classifier)
+<p>
+  <img src="https://img.shields.io/badge/tag-nlp-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-education-00c853?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-streamlit-ff9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-shap-7b2ff7?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-dvc-455a64?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/blooms-taxonomy-nlp-classifier  
 
 ---
 
 ### 🔹 **Zero-Shot LLM Text Operations**
+GPT-based Streamlit toolkit for summarization, translation, sentiment analysis, and Q&A through dynamic zero-shot prompting.
 
-GPT-based Streamlit toolkit for summarization, translation, sentiment analysis, and Q&A using dynamic zero-shot prompting.
-🔗 [https://github.com/Dx2905/zero-shot-llm-text-operations](https://github.com/Dx2905/zero-shot-llm-text-operations)
+<p>
+  <img src="https://img.shields.io/badge/tag-llm-7b2ff7?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-gpt-ff4b81?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-streamlit-ff9800?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/zero-shot-llm-text-operations  
 
 <p align="center">
   ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
----
-
-## <!-- ==== BACKEND / MICROSERVICES ==== -->
-
+<!-- ==== BACKEND / MICROSERVICES ==== -->
 <h2 align="center">🧱 Backend Engineering · Microservices · DevOps</h2>
 
 ### 🔹 **Microservices K8s DevOps Playground**
+Simulated AWS EKS microservices stack using Kubernetes (kind), Docker, Spring Boot, Node.js, Prometheus, Grafana, Ingress, and HPA.
 
-Simulated AWS EKS-style microservices stack with Java + Node.js services, Kubernetes (Kind), Prometheus, Grafana, Ingress, and HPA.
-🔗 [https://github.com/Dx2905/microservices-k8s-devops-playground](https://github.com/Dx2905/microservices-k8s-devops-playground)
+<p>
+  <img src="https://img.shields.io/badge/tag-kubernetes-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-microservices-7b2ff7?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-prometheus-ff9800?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-grafana-ffb300?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-docker-2962ff?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/microservices-k8s-devops-playground  
 
 ---
 
 ### 🔹 **Task Manager Backend Service**
+FastAPI backend with PostgreSQL, Redis caching, JWT auth, Docker packaging, and Prometheus metrics.
 
-FastAPI backend with JWT auth, PostgreSQL, Redis caching, Docker, and Prometheus metrics — designed like a real production service.
-🔗 [https://github.com/Dx2905/task-manager-backend-service](https://github.com/Dx2905/task-manager-backend-service)
+<p>
+  <img src="https://img.shields.io/badge/tag-backend-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-fastapi-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-postgresql-2962ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-redis-d32f2f?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-docker-2962ff?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/task-manager-backend-service  
 
 ---
 
 ### 🔹 **Notification Event Service**
+Event logging & notification simulation backend built with Express, Redis, Docker, JWT auth, and a Jest test suite.
 
-Event logging & notification simulation API built using Express, Redis, Docker, JWT auth, and a Jest test suite.
-🔗 [https://github.com/Dx2905/notification-event-service](https://github.com/Dx2905/notification-event-service)
+<p>
+  <img src="https://img.shields.io/badge/tag-backend-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-node.js-8bc34a?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-redis-d32f2f?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-docker-2962ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-jest-ff4b81?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/notification-event-service  
 
 ---
 
 ### 🔹 **Contact Book Backend**
+Spring Boot REST API with PostgreSQL, JWT authentication, and full CRUD operations for contact management.
 
-Secure Spring Boot backend with PostgreSQL, JWT-based authentication, and full CRUD operations for user contacts.
-🔗 [https://github.com/Dx2905/contact-book-backend](https://github.com/Dx2905/contact-book-backend)
+<p>
+  <img src="https://img.shields.io/badge/tag-backend-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-spring_boot-00c853?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-postgresql-2962ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-jwt-ff9800?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/contact-book-backend  
 
 ---
 
 ### 🔹 **Job Tracker SaaS Platform**
+Full-stack SaaS job tracking platform with FastAPI, PostgreSQL, SQLAlchemy, Next.js 14, TypeScript, JWT auth, and Docker.
 
-Full-stack SaaS job tracking system built with FastAPI, PostgreSQL, SQLAlchemy, Next.js, TypeScript, JWT, Axios, and Docker.
-🔗 [https://github.com/Dx2905/job-tracker-saas-platform](https://github.com/Dx2905/job-tracker-saas-platform)
+<p>
+  <img src="https://img.shields.io/badge/tag-full_stack-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-fastapi-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-next.js-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-typescript-2962ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-postgresql-2962ff?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/job-tracker-saas-platform  
 
 <p align="center">
   ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
 </p>
 
----
-
-## <!-- ==== FRONTEND ==== -->
-
+<!-- ==== FRONTEND ==== -->
 <h2 align="center">🎨 Frontend / UI / Dashboards</h2>
 
 ### 🔹 **React Admin Dashboard**
+Modern React admin dashboard with authentication, protected routes, REST API integration, Tailwind UI, and Vercel CI/CD.
 
-Modern admin dashboard with authentication, REST API integration, Tailwind UI components, and Vercel CI/CD.
-🔗 [https://github.com/Dx2905/react-admin-dashboard](https://github.com/Dx2905/react-admin-dashboard)
+<p>
+  <img src="https://img.shields.io/badge/tag-frontend-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-react-2962ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-tailwind_css-00c853?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-vercel-000000?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/react-admin-dashboard  
 
 ---
 
 ### 🔹 **Portfolio Website**
+Personal website showcasing projects & experience — clean, minimal, and fast.
 
-Personal website showcasing projects and experience — clean, fast, minimal.
-🔗 [https://github.com/Dx2905/FnuGauravWeb](https://github.com/Dx2905/FnuGauravWeb)
+<p>
+  <img src="https://img.shields.io/badge/tag-frontend-00f7ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-portfolio-ff4b81?style=flat-square" />
+  <img src="https://img.shields.io/badge/tag-html%2Fcss-ff9800?style=flat-square" />
+</p>
+
+🔗 https://github.com/Dx2905/FnuGauravWeb  
+
 
 ---
 
