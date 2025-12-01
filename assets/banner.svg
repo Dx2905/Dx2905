@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220">
   <rect width="1000" height="220" fill="#000000" />
   <text x="500" y="120"
@@ -5,6 +6,6 @@
         font-size="48"
         fill="#00f7ff"
         text-anchor="middle">
-    Fnu Gaurav – ML, XAI, Backend & DevOps
+    Fnu Gaurav - ML, XAI, Backend & DevOps
   </text>
 </svg>
