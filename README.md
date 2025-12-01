@@ -1,9 +1,16 @@
 <!-- 🌌 Fnu Gaurav – Fully Creative Neon GitHub Profile README -->
 
-<!-- <div align="center"> -->
 <p align="center">
-  <img src="assets/test-banner.svg" alt="Fnu Gaurav – ML, XAI, Backend & DevOps" />
+  <img src="assets/test-banner.svg" alt="Banner" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Fnu+Gaurav;Machine+Learning+Engineer;Backend+Engineer;AI+%28HDI+%2F+Explainability%29;Clinical+AI+%7C+Uncertainty+%7C+XAI;Shipping+Ideas+to+Production+🚀" />
+</p>
+
+<h1 align="center">🧠 Fnu Gaurav</h1>
+<h3 align="center">Clinical AI · Uncertainty · Explainability · Backend & DevOps</h3>
+
 
 
 <!-- Glitchy Banner Text -->
