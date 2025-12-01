@@ -1,152 +1,140 @@
 
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=49F7A2&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Backend+Engineer;AI+%28HDI+%2F+Explainability%29+Research;Building+Scalable+ML+%26+Backend+Systems;Always+Learning+New+Things+🚀" />
+
 ---
 
 # 🧠 **Fnu Gaurav**
 
-### *Machine Learning Engineer · Backend Engineer · AI Research (HDI · XAI)*
+### *Machine Learning Engineer · Backend Engineer · AI (HDI / XAI)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fnu-gaurav-653355252/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://dx2905.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:yadav.gaurav2905@gmail.com)
-
----
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24\&color=55F785\&lines=Machine+Learning+Engineer;Backend+Engineer;AI+Research+%28HDI+%2F+Explainability%29;Building+Scalable+ML+Systems;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/fnu-gaurav-653355252/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge\&logo=google-chrome)](https://dx2905.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:yadav.gaurav2905@gmail.com)
 
 ---
 
-## 🚀 **About Me**
-
-I’m a **Machine Learning Engineer + Backend Developer** passionate about
-**clinical AI, uncertainty visualization, explainability, and production-grade ML/AI systems.**
-
-My work blends **research-driven thinking** with **practical engineering**:
-
-* 🧠 Clinical risk models (calibration, uncertainty, SHAP, bootstrap CIs)
-* ⚙️ Production ML systems (FastAPI · Docker · GCP Cloud Run · MLflow)
-* 🏗️ Backend architecture (PostgreSQL · Redis · JWT · CI/CD · K8s)
-* 📊 Human–AI interaction & visualization for decision support
-* 🔍 **Research interests:** uncertainty communication · explainable AI · clinical decision support · human–AI collaboration
+</div>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🌌 **About Me**
 
-### **Languages**
+I’m a **Machine Learning Engineer + Backend Developer** focused on
+**clinical AI, uncertainty modeling, explainability, and scalable production ML systems.**
 
-`Python` • `Java` • `C++` • `R` • `SQL` • `TypeScript` • `Scala`
+💡 My work combines **research-style AI thinking** with **hands-on backend engineering**:
 
-### **Machine Learning / AI**
-
-`scikit-learn` • `PyTorch` • `Transformers (HF)` • `XGBoost` • `SHAP` • `MLflow`
-
-### **Backend & APIs**
-
-`FastAPI` • `Spring Boot` • `Node.js` • `Express` • `JWT Auth`
-
-### **DevOps & Infra**
-
-`Docker` • `Kubernetes` • `GitHub Actions` • `GCP Cloud Run` • `Prometheus` • `Grafana` • `Airflow` • `DVC`
-
-### **Databases**
-
-`PostgreSQL` • `Redis` • `MongoDB` • `Snowflake`
+* 🧠 **Clinical risk models** (calibration, uncertainty, SHAP, bootstrap CIs)
+* ⚙️ **ML in production**: FastAPI · Docker · Cloud Run · MLflow
+* 🏗️ **System design & backend**: PostgreSQL · Redis · JWT · CI/CD · Kubernetes
+* 📊 **Human–AI interaction** for decision support
+* 🔍 **Research interests**: uncertainty communication · explainable AI · human–AI collaboration
 
 ---
 
-## 📌 **Featured Projects**
+## 🧰 **Tech Stack Icons (Graphical)**
 
-### 🔹 **🩺 Clinical Uncertainty & Explainability Dashboard**
+<div align="center">
 
-**Risk models + calibrated uncertainty + SHAP + Streamlit**
+### 🚀 Languages
 
-* Reliability curves & calibration
-* Bootstrap uncertainty for single predictions
-* Local & global SHAP explanations
-* HDI-style dashboard for clinical decision support
-  🔗 *(repo link — add when public)*
+<img src="https://skillicons.dev/icons?i=python,java,cpp,r,ts,scala&theme=dark" />
+
+### 🤖 ML / AI
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />  
+`scikit-learn` · `XGBoost` · `SHAP` · `MLflow`
+
+### 🏗️ Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express&theme=dark" />
+
+### 🗄 Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+
+### ⚙️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gcp&theme=dark" />
+
+</div>
 
 ---
 
-### 🔹 **🔬 Breast Cancer ML Pipeline (Prod-Ready)**
+## ✨ **Featured Projects (Graphical Cards)**
+
+### 🩺 **Clinical Uncertainty & XAI Dashboard**
+
+> *Calibrated predictions, bootstrap uncertainty, SHAP explainability, HDI-style dashboard*
+
+📌 Reliability curves
+📌 Local + global SHAP
+📌 Bootstrap confidence intervals
+📌 Streamlit interactive dashboard
+
+🔗 *(repo link — add when public)*
+
+---
+
+### 🔬 **Breast Cancer ML Pipeline**
 
 **MLflow + SHAP + FastAPI + Docker + Prometheus + Airflow**
 
-* Full ML training → serving → monitoring pipeline
-* SHAP global/local explanations
-* Prometheus metrics dashboard
-* FastAPI inference API + CI/CD
-  🔗 [https://github.com/Dx2905/breast-cancer-ml-pipeline](https://github.com/Dx2905/breast-cancer-ml-pipeline)
+* Full ML pipeline
+* SHAP explainability
+* Monitoring with Prometheus/Grafana
+* FastAPI inference service
+
+🔗 [https://github.com/Dx2905/breast-cancer-ml-pipeline](https://github.com/Dx2905/breast-cancer-ml-pipeline)
 
 ---
 
-### 🔹 **🚀 SpaceX Landing Prediction (GCP Deployment)**
+### 🚀 **SpaceX Landing Prediction (Cloud Run)**
 
-**FastAPI + Docker + GCP Cloud Run**
+* FastAPI
+* Docker
+* GCP Cloud Run deployment
+* Production-grade REST API
 
-* Classification for Falcon 9 landing success
-* Containerized model deployed on Cloud Run
-* REST API for prediction
-  🔗 [https://github.com/Dx2905/IBM-Applied-Data-Science-Capstone](https://github.com/Dx2905/IBM-Applied-Data-Science-Capstone)
-
----
-
-### 🔹 **📦 Task Manager API Platform**
-
-**FastAPI + PostgreSQL + Redis + Prometheus + GitHub Actions**
-
-* Trello-style backend
-* JWT-based RBAC authentication
-* Dockerized architecture
-* Prometheus + Grafana monitoring
-  🔗 *(repo link — add when public)*
+🔗 [https://github.com/Dx2905/IBM-Applied-Data-Science-Capstone](https://github.com/Dx2905/IBM-Applied-Data-Science-Capstone)
 
 ---
 
-### 🔹 **📚 AI Cognitive Classification (Bloom’s Taxonomy)**
+### 📦 **Task Manager API Platform**
 
-**NLP classification + SHAP + FastAPI + DVC + W&B**
+* FastAPI backend
+* PostgreSQL + Redis
+* JWT RBAC auth
+* Prometheus metrics
+* GitHub Actions CI/CD
 
-* TF-IDF + SVM baseline
-* SHAP interpretability
-* Streamlit interactive interface
-* DVC for reproducibility
-  🔗 [https://github.com/Dx2905/cognitive-classification-blooms](https://github.com/Dx2905/cognitive-classification-blooms)
-
----
-
-### 🔹 **☁️ Kubernetes DevOps Playground**
-
-**Java Service + Node Service + K8s + Prometheus + Grafana**
-
-* Multi-service deployment
-* YAML-based infrastructure (Deployment, Service, Ingress)
-* Local kind cluster simulating AWS EKS
-  🔗 *(repo link — add when public)*
+🔗 *(repo link — add later)*
 
 ---
 
-## 📊 **GitHub Stats**
+## 📈 **GitHub Analytics**
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dx2905&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dx2905&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dx2905&show_icons=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dx2905&layout=compact&theme=tokyonight" />
 
-## 📈 **Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dx2905&theme=react-dark" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dx2905\&theme=react-dark)
+</div>
 
 ---
 
-## 🧩 **Current Focus**
+## 🛠️ **Current Focus**
 
-* Clinical uncertainty & XAI research
-* Scalable backend & DevOps engineering
-* Building production ML systems
-* Documentation, dashboards & polished repos
+* Clinical uncertainty modeling
+* XAI + human-centered AI
+* Production ML systems
+* Backend architecture & DevOps
+* High-quality documentation and dashboards
 
 ---
 
