@@ -20,14 +20,14 @@
   </a>
 </p>
 
----
-
 <h1>🧠 Fnu Gaurav</h1>
 <h3>Clinical AI · Uncertainty · Explainability · Backend & DevOps</h3>
 
 </div>
 
----
+<p align="center">
+  ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
+</p>
 
 ## 🌌 Who Am I?
 
@@ -43,7 +43,9 @@ I’m a **Machine Learning Engineer + Backend Developer** who enjoys living at t
 
 I turn **research-flavored ideas** into **production-grade systems**: APIs, dashboards, pipelines, metrics & monitoring.
 
----
+<p align="center">
+  ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
+</p>
 
 ## 🎛 Tech Stack · Visual Mode
 
@@ -66,7 +68,9 @@ I turn **research-flavored ideas** into **production-grade systems**: APIs, dash
 
 </div>
 
----
+<p align="center">
+  ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
+</p>
 
 # 🌟 Featured Projects  
 *A curated selection of my strongest engineering, ML, and uncertainty visualization projects.*
@@ -184,7 +188,9 @@ Personal portfolio website.
 > 🌐 Minimal, clean, fast.  
 🔗 https://github.com/Dx2905/FnuGauravWeb  
 
----
+<p align="center">
+  ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
+</p>
 
 ## 📊 **GitHub At A Glance**
 
@@ -199,7 +205,9 @@ Personal portfolio website.
 
 </div>
 
----
+<p align="center">
+  ✨━━━━━━━━━━━━━━━━━━━━🌌━━━━━━━━━━━━━━━━━━━━✨
+</p>
 
 ## 🔭 **Current Radar**
 
