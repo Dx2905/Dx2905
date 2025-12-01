@@ -1,1 +1,28 @@
+<!-- assets/icons/python-animated.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60">
+  <defs>
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#306998" />
+      <stop offset="100%" stop-color="#000000" />
+    </radialGradient>
+  </defs>
+
+  <!-- Glow circle -->
+  <circle cx="30" cy="30" r="22" fill="url(#pulse)">
+    <animate attributeName="r"
+             values="20;23;20"
+             dur="2s"
+             repeatCount="indefinite" />
+    <animate attributeName="opacity"
+             values="0.7;1;0.7"
+             dur="2s"
+             repeatCount="indefinite" />
+  </circle>
+
+  <!-- Simple P-like glyph -->
+  <path d="M23 40 V20 h10a7 7 0 0 1 0 14h-6v6z"
+        fill="#ffd43b" />
+
+  <circle cx="30" cy="24" r="2" fill="#306998" />
+</svg>
 
